@@ -36,3 +36,11 @@ class Cat {
     }
   }
   
+
+  let cat1 = new Cat("Melanie", "male");
+let dog1 = new Dog("BudSimbady", "female");
+let bird1 = new Bird("Malaika", "male");
+
+console.log(cat1.speak()); 
+console.log(dog1.speak()); 
+console.log(bird1.speak()); 
