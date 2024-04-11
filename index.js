@@ -38,7 +38,7 @@ class Cat {
   
 
   let cat1 = new Cat("Melanie", "male");
-let dog1 = new Dog("BudSimbady", "female");
+let dog1 = new Dog("Bosco", "female");
 let bird1 = new Bird("Malaika", "male");
 
 console.log(cat1.speak()); 
